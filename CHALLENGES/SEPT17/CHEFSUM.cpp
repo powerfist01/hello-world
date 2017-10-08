@@ -14,6 +14,7 @@ int main(){
         }
         for(long long int i=n;i>=1;i--){
             suf[i]=suf[i+1]+arr[i];
+
             if(sum>=pre[i]+suf[i]){
                 sum=pre[i]+suf[i];
                 index=i;
