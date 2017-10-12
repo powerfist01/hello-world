@@ -1,1 +1,2 @@
-It contains all my works in Competitive-Programming. 
+Contains most of my work in Competitive Programming.
+
