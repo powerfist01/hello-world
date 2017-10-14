@@ -1,2 +1,2 @@
-**#Contains most of my work in _Competitive Programming_.**
+# **Contains most of my work in _Competitive Programming_.**
 
