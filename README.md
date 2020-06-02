@@ -1,2 +1,2 @@
 # **Contains most of my work in _Competitive Programming_.**
-Happy Coding...
+# A collection of problems in competitive programming and their solution. 
