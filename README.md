@@ -1,4 +1,4 @@
-# hello world
+# Hello World
 
 Contains most of my work in _Competitive Programming_
 
