@@ -13,5 +13,3 @@ If found any issue, please open an issue first to discuss what you would like to
 ## Author
 
 [Sujeet Kumar Singh](https://singhsujeet0.web.app)
-
-Aditya Shukla
