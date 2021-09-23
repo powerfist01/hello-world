@@ -78,9 +78,9 @@ void inOrder(node* root){
 	if(root==NULL)
 		return;
 	else{
-		preOrder(root->left);
+		inOrder(root->left);
 		cout<<root->data<<" ";
-		preOrder(root->right);
+		inOrder(root->right);
 	}
 }
 
@@ -88,8 +88,8 @@ void postOrder(node* root){
 	if(root==NULL)
 		return;
 	else{
-		preOrder(root->left);
-		preOrder(root->right);
+		postOrder(root->left);
+		postOrder(root->right);
 		cout<<root->data<<" ";
 	}
 }
