@@ -108,9 +108,3 @@ int32_t main()
 	}
 	return 0;
 }
-/* stuff you should look for
-    * int overflow, array bounds
-    * special cases (n=1?)
-    * do smth instead of nothing and stay organized
-    * WRITE STUFF DOWN
-*/
