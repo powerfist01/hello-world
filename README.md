@@ -5,7 +5,7 @@ This repository is for everyone who wants to participate in Hacktoberfest 2022.
 <br>
 <h1>Hacktober Fest 2022 For Everyone!👋👋</h1>
 <br>
-<img src = "https://github.com/powerfist01/hello-world/blob/main/Images/download.jfif" alt= "Its time to contribute!!" height = "100%" width = "100%">
+<img src = "https://github.com/mridulgoel03/hello-world/blob/main/Images/download.jfif" alt= "Its time to contribute!!" height = "100%" width = "100%">
 <h1>🎖️🎖️Rewards ::🎖️🎖️</h1>
 <h6>You can get awesome goodies like T-Shirt and some stickers for FREE!!!🤩🤩</h6>
 
@@ -27,7 +27,7 @@ This repository is for everyone who wants to participate in Hacktoberfest 2022.
 
 <h6>Thanks for contributing. It's an amazing experience to collaborate with you all!</h6>
 <br>
-<img src = "https://github.com/powerfist01/hello-world/blob/main/Images/code.avif" >
+<img src = "https://github.com/mridulgoel03/hello-world/blob/Readme-file/Images/code.avif" >
 
 ## Author
 [Sujeet Kumar Singh](https://singhsujeet0.web.app)
