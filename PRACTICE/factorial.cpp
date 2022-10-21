@@ -1,13 +1,22 @@
-#include <iostream>  
-using namespace std;  
-int main()  
-{  
-   int i,fact=1,number;    
-  cout<<"Enter any Number: ";    
- cin>>number;    
-  for(i=1;i<=number;i++){    
-      fact=fact*i;    
-  }    
-  cout<<"Factorial of " <<number<<" is: "<<fact<<endl;  
-  return 0;  
-}  
+// C++ program to find factorial of given number
+#include <iostream>
+using namespace std;
+
+// function to find factorial of given number
+unsigned int factorial(unsigned int n)
+{
+	if (n == 0)
+		return 1;
+	return n * factorial(n - 1);
+}
+
+// Driver code
+int main()
+{
+	int num = 5;
+	cout << "Factorial of "
+		<< num << " is " << factorial(num) << endl;
+	return 0;
+}
+
+// This code is contributed by Shivi_Aggarwal
