@@ -27,7 +27,7 @@ This repository is for everyone who wants to participate in Hacktoberfest 2022.
 
 <h6>Thanks for contributing. It's an amazing experience to collaborate with you all!</h6>
 <br>
-<img src = "https://github.com/powerfist01/hello-world/blob/main/Images/code.avif" >
+<img src = "https://https://github.com/mridulgoel03/hello-world/blob/Readme-file/Images/code.avif" >
 
 ## Author
 [Sujeet Kumar Singh](https://singhsujeet0.web.app)
